@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/kieranjmartin/universe
-	shallow = true
 	branch = HEAD
 [submodule "MatrixModels"]
 	path = MatrixModels
 	url = https://github.com/cran/MatrixModels
-	shallow = true
-	registered = true
